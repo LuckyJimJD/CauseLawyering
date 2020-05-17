@@ -1,2 +1,3 @@
 # CauseLawyering
-Course site for Cause Lawyering (Prof. Fink) at Elon Law School 
+
+Course site for Cause Lawyering (Prof. Fink) at Elon Law School. 
