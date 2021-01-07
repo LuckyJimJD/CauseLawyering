@@ -28,7 +28,7 @@ footer_text: >
 
 # Build settings
 markdown: kramdown
-remote_theme: luckyjimjd/lj-folio
+remote_theme: EricMFink/lj-folio
 
 # Includes & excludes
 include: ['_pages']
